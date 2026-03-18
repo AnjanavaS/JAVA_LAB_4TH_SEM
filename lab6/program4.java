@@ -1,3 +1,7 @@
+/* 4. Create a class Bank with: Static nested class InterestCalculator: has a static method to calculate simple interest.
+
+Demonstrate that static nested classes cannot access non-static members directly. */
+
 class program4 {
 
     int balance = 5000;

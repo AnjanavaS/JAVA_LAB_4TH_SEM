@@ -1,3 +1,8 @@
+/* 1. Aim of the program - Write a java program which will accept students details like Student RollNo, Name, Subject, Marks from the keyboard using scanner class, stored the same in a file. Again open the file, read the content and display all.
+Input: Enter student details -   Rollno, name, subject, marks
+           Enter the name of existing file to which student details will be written.
+Output: Display the content of existing file */
+
 import java.io.*;
 import java.util.*;
 

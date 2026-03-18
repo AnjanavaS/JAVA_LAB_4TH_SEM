@@ -1,3 +1,15 @@
+/* 4.  Aim of the program :  Write a program in Java to create a class Rectangle having data members length and breadth and three methods called read, calculate and display to read the values of length and breadth,  calculate the area and perimeter of the rectangle and display the result   respectively.
+Create a class named 'Rectangle' with two data members 'length' and 'breadth' and
+two methods to print the area and perimeter of the rectangle respectively.
+Its constructor having parameters for length and breadth is used to initialize length
+and breadth of the rectangle.
+Create a class named 'Rectangle' with two data members 'length' and 'breadth' and
+two methods to print the area and perimeter of the rectangle respectively.
+Its constructor having parameters for length and breadth is used to initialize length
+and breadth of the rectangle.
+    Input:   Mention length and breadth 
+Output: Display Area of Rectangle and Perimeter of rectangle. */
+
 import java.util.Scanner;
 
 class program4

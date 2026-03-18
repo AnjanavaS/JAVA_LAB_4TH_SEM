@@ -1,3 +1,4 @@
+/* 3. Using the equals method , demonstrate via a program how to compare 2 students for equality. */
 class Student {
     int rollno;
     String name;

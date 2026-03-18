@@ -1,3 +1,7 @@
+/* 3. Aim of the program:   Write a program to print the week day for the given day no. of the current month using switch case statement
+Input:  Mention the Day no in the program
+Output: Display the week day(either Sunday/Monday/Tuesday/Wednesday /Thursday/Friday/Saturday) */
+
 class program3 {
     public static void main(String[] args) {
 

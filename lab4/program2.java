@@ -1,3 +1,14 @@
+/* 2. Illustrate the usage of abstract class with following Java classes –
+l  An abstract class ‘student’ with two data members roll no, reg no, a method getinput() and an abstract method course()
+l A subclass ‘kiitian’ with course() method implementation
+Write the driver class to print the all details of a kiitian object.
+ 
+          Input - Rollno - 2205180
+Registration no - 1234567890
+          Output -Rollno - 2205180
+Registration no - 1234567890
+Course - B.Tech. (Computer Science & Engg) */
+
 abstract class Student {
     int rollno;
     long regno;

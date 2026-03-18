@@ -1,3 +1,9 @@
+/* 3. Design a class University that contains an inner class Department. University has fields: universityName, location ;Department has fields: deptName, hodName ;
+
+The inner class should access and display the outer class data.
+
+Create an object of the inner class from the outer class. */
+
 class program3 {
 
     String universityName = "KIIT University";

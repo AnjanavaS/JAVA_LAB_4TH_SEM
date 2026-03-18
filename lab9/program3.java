@@ -1,3 +1,9 @@
+/* 3. Aim of the program -Write a java program to compare two binary files, printing the first byte position where they differ.
+Input: Specify two binary files in the program (Assume two files  are exist in the system)
+Output: Two files are equal
+Input: Specify two binary files in the program
+Output: Two files are not equal: byte position at which two files differ is 30*/
+
 import java.io.*;
 
 public class program3

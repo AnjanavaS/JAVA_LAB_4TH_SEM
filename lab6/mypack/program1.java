@@ -1,3 +1,5 @@
+/* 1. Create HelloWorld class in a separate package called as "mypack" and run it. */
+
 package mypack;
 
 public class program1 {

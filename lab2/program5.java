@@ -1,3 +1,7 @@
+/* 5. Aim of the program :  Write a program in java to input and display the details of n number of students having roll, name and cgpa as data members. Also display the name of the student having lowest cgpa.
+Input:   Enter Roll No, Name and cgpa of ‘n’ number of students.
+Output: Display the details of ‘n’ number of students. Also display the name of student with lowest cgpa */
+
 import java.util.Scanner;
 
 class Student

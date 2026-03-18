@@ -1,3 +1,9 @@
+/* 4. Aim of the program -Write a java program that displays the number of characters, no. of lines and no. of words present in a text file whose name is given by the user.
+Input: Name of the file - filename
+Output: No. of characters - A,
+    No .of  lines  - B
+    No . of words - C */
+
 import java.io.*;
 import java.util.*;
 

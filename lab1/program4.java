@@ -1,3 +1,7 @@
+/* 4. Aim of the program : Program to check a user entered number is palindrome or not 
+Input:  Mention the number in the program
+Output: display the number is Palindrome or not. */
+
 class program4 {
     public static void main(String[] args) {
         int num = 121;  
